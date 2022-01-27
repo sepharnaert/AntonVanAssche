@@ -5,14 +5,10 @@
    </h4>
 </h1>
 
--------------
-
 - 👋 Hi, I’m @TuX-sudo!
 - 👷 I’m currently working on [Gomez OS](https://gomezos.tk) for fun and to learn a thing or too. 
 - 🐧 Linux is my passion even if it's writing some basic Bash scripts like the ones in my [dotfiles](https://github.com/TuX-sudo/dotfiles) repo.
 - ⚡ Fun fact: nothing to see here...
-
--------------
 
 ## ℹ️ Github Info
 
@@ -23,5 +19,3 @@
 
 <img height="180em" width="450em" src="https://github-readme-stats.vercel.app/api?username=TuX-sudo&show_icons=true&locale=en&layout=compact&hide_border=true&theme=github_dark"/>
 <img height="180em" width="450em" src="https://github-readme-stats.vercel.app/api/top-langs?username=TuX-sudo&show_icons=true&locale=en&layout=compact&hide_border=true&theme=github_dark"/>
-
--------------
