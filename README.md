@@ -17,5 +17,5 @@
 
 ### ⚡ Github Stats
 
-<img height="180em" width="450em" src="https://github-readme-stats.vercel.app/api?username=TuX-sudo&show_icons=true&locale=en&layout=compact&hide_border=true&theme=github_dark"/>
-<img height="180em" width="450em" src="https://github-readme-stats.vercel.app/api/top-langs?username=TuX-sudo&show_icons=true&locale=en&layout=compact&hide_border=true&theme=github_dark"/>
+<img height="180em" width="450em" src="https://github-readme-stats.vercel.app/api?username=TuX-sudo&show_icons=true&layout=compact&hide_border=true&theme=github_dark"/>
+<img height="180em" width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TuX-sudo&show_icons=true&layout=compact&hide_border=true&theme=github_dark"/>
