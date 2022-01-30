@@ -8,6 +8,7 @@
 - 👋 Hi, I’m @TuX-sudo!
 - 👷 I’m currently working on [Gomez OS](https://gomezos.tk) for fun and to learn a thing or too. 
 - 🐧 Linux is my passion even if it's writing some basic Bash scripts like the ones in my [dotfiles](https://github.com/TuX-sudo/dotfiles) repo.
+- 🏫 Studying Toegepaste informatica in Hogent
 - ⚡ Fun fact: nothing to see here...
 
 ## ℹ️ Github Info
