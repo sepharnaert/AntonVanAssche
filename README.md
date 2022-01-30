@@ -13,7 +13,7 @@
 ## ℹ️ Github Info
 
 ### 🔎 Github Profile Details
-<img height="180em" width="450em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TuX-sudo&show_icons=true&locale=en&layout=compact&hide_border=true&theme=github_dark"/>
+<img height="180em" width="450em" src="https://github-readme-stats.vercel.app/api?username=TuX-sudo&count_private=true&show_icons=true&locale=en&layout=compact&hide_border=true&theme=github_dark"/>
 
 ### ⚡ Github Stats
 
