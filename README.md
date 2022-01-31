@@ -10,6 +10,8 @@
 - 🏫 Studying Toegepaste informatica in Hogent
 - ⚡ Fun fact: nothing to see here...
 
+<br>
+
 ## ℹ️ Github Info
 
 ### 🔎 Github Profile Details
