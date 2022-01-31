@@ -1,23 +1,47 @@
-<h1 align="center">
-   Hi! <img width="28" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"> ,
-</h1>
+<div align="center">
+   <h1>
+      Hi! <img width="35" src="./assets/waving-hand.gif"> ,
+   </h1>
+   <a href="https://github.com/TuX-sudo"><img width="15%" src="https://img.shields.io/badge/Github-2E3440?style=for-the-badge&logo=github&logoColor=white"></a>
+   <a href="https://gitlab.com/sudo_TuX"><img width="15%" src="https://img.shields.io/badge/Gitlab-2E3440?style=for-the-badge&logo=gitlab&logoColor=white"></a>
+</div>
 
-<img align="right"  width="230em" src="https://media.giphy.com/media/KJmbSTSyIzetubNgJ5/giphy.gif"/>
+## 💡 About
 
-- <img width="15" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"/> Hi, I’m Anton!
-- 👷 I’m currently working on [Gomez OS](https://gomezos.tk) for fun and to learn a thing or too. 
-- 🐧 Linux is my passion even if it's writing some basic Bash scripts like the ones in my [dotfiles](https://github.com/TuX-sudo/dotfiles) repo.
-- 🏫 Studying Toegepaste informatica in Hogent
-- ⚡ Fun fact: nothing to see here...
+<img align="right"  width="230em" src="./assets/penguin.gif"/>
+
+- <img width="15" src="./assets/waving-hand.gif"/> Hi, I’m Anton!
+- 🏫 Studying Toegepaste informatica at HoGent
+- 🧠 I am learning (still googling some basic crap sometimes):
+   -  🐚 Bash
+   -  ♨️ Java (I know it's a pain in the ass)
+   -  🌐 HTML/CSS/JS
+- 👯 Wank about my code, steal it, fork it, blow it up, idk. Feedback is always welcome!
+- 🐧 Linux is my passion, even if I suffer from errors.
+- 👷 I’m currently working on [Gomez OS](https://gomezos.tk) `version: 22.04` for fun and to learn a thing or too. 
+- 💻 Currently using mostly Fedora Linux ([dotfiles](https://github.com/TuX-sudo/dotfiles)) And unfortunately also Windows
 
 <br>
 
-## ℹ️ Github Info
+## ⚡ Github Stats
 
-### 🔎 Github Profile Details
-<img height="180em" width="450em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TuX-sudo&show_icons=true&layout=compact&hide_border=true&theme=github_dark"/>
+<div align="center">
+   <img height="165em" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TuX-sudo&count_private=true&show_icons=true&layout=compact&hide_border=true&theme=nord"/>
+   <img height="165em" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TuX-sudo&show_icons=true&layout=compact&hide_border=true&theme=nord"/>
+</div>
 
-### ⚡ Github Stats
+<br>
 
-<img height="180em" width="450em" src="https://github-readme-stats.vercel.app/api?username=TuX-sudo&count_private=true&show_icons=true&layout=compact&hide_border=true&theme=github_dark"/>
-<img height="180em" width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TuX-sudo&show_icons=true&layout=compact&hide_border=true&theme=github_dark"/>
+## ⚙️ Some projects
+
+I have some small projects, I make for fun nothing special.
+
+Here are a few of them:
+
+Project                     | Progress                       | Location                                                               |
+----------------------------|--------------------------------|------------------------------------------------------------------------|
+Gomez OS                    | Under development for `22.04`  | [Website](https:/gomezos.tk), [Git repos](https://gitlab.com/gomez-os) |
+Gnoti                       | Updated to Gnome 41            | [Git repo](https://github.com/TuX-sudo/gnoti)                          |
+rpi-nas                     | Done                           | [Git repo](https://github.com/TuX-sudo/rpi-nas)                        |
+rpi-homeserver              | Done                           | [Git repo](https://github.com/TuX-sudo/rpi-homeserver)                 |
+Dotfiles                    | Fine-tune installation scripts | [Git repo](https://github.com/TuX-sudo/dotfiles)                       |
