@@ -47,3 +47,4 @@ Gnoti                       | Updated to Gnome 41            | [Git repo](https:
 rpi-nas                     | Done                           | [Git repo](https://github.com/TuX-sudo/rpi-nas)                        |
 rpi-homeserver              | Done                           | [Git repo](https://github.com/TuX-sudo/rpi-homeserver)                 |
 Dotfiles                    | Fine-tune installation scripts | [Git repo](https://github.com/TuX-sudo/dotfiles)                       |
+BashPass                    | Adding features                | [Git repo](https://github.com/TuX-sudo/bashpass)                       |
