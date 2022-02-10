@@ -21,7 +21,7 @@
 - 👯 Wank about my code, steal it, fork it, blow it up, idk. Feedback is always welcome!
 - 🐧 Linux is my passion, even if I suffer from errors.
 - 👷 I’m currently working on [Gomez OS](https://gomezos.tk) `version: 22.04` for fun and to learn a thing or too. 
-- 💻 Currently using mostly Fedora Linux ([dotfiles](https://github.com/TuX-sudo/dotfiles)) And unfortunately also Windows
+- 💻 Currently using Fedora Linux ([dotfiles](https://github.com/TuX-sudo/dotfiles)) and unfortunately also Windows
 
 <br>
 
@@ -42,9 +42,10 @@ Here are a few of them:
 
 Project                     | Progress                       | Location                                                               |
 ----------------------------|--------------------------------|------------------------------------------------------------------------|
-Gomez OS                    | Under development for `22.04`  | [Website](https:/gomezos.tk), [Git repos](https://gitlab.com/gomez-os) |
-Gnoti                       | Updated to Gnome 41            | [Git repo](https://github.com/TuX-sudo/gnoti)                          |
-rpi-nas                     | Done                           | [Git repo](https://github.com/TuX-sudo/rpi-nas)                        |
-rpi-homeserver              | Done                           | [Git repo](https://github.com/TuX-sudo/rpi-homeserver)                 |
-Dotfiles                    | Fine-tune installation scripts | [Git repo](https://github.com/TuX-sudo/dotfiles)                       |
-BashPass                    | Adding features                | [Git repo](https://github.com/TuX-sudo/bashpass)                       |
+`Gomez OS `                   | Under development for `22.04`  | [Website](https:/gomezos.tk), [Git repos](https://gitlab.com/gomez-os) |
+`Gnoti`                       | Updated to Gnome 41            | [Git repo](https://github.com/TuX-sudo/gnoti)                          |
+`rpi-nas `                    | Done                           | [Git repo](https://github.com/TuX-sudo/rpi-nas)                        |
+`rpi-homeserver  `            | Done                           | [Git repo](https://github.com/TuX-sudo/rpi-homeserver)                 |
+`Dotfiles `                   | Fine-tune installation scripts | [Git repo](https://github.com/TuX-sudo/dotfiles)                       |
+`BashPass `                   | Adding features                | [Git repo](https://github.com/TuX-sudo/bashpass)                       |
+`ant0n.tk `                   |                                | [Git repo](https://github.com/TuX-sudo/ant0n.tk)                       |
