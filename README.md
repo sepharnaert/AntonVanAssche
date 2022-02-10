@@ -3,7 +3,7 @@
       Hi! <img width="35" src="./assets/waving-hand.gif"> ,
    </h1>
    <a href="https://github.com/AntonVanAssche"><img width="15%" src="https://img.shields.io/badge/Github-2E3440?style=for-the-badge&logo=github&logoColor=white"></a>
-   <a href="https://gitlab.com/sudo_TuX"><img width="15%" src="https://img.shields.io/badge/Gitlab-2E3440?style=for-the-badge&logo=gitlab&logoColor=white"></a>
+   <a href="https://gitlab.com/AntonVanAssche"><img width="15%" src="https://img.shields.io/badge/Gitlab-2E3440?style=for-the-badge&logo=gitlab&logoColor=white"></a>
    <br>
    <!-- <img src="https://api.ghprofile.me/view?username=AntonVanAssche&color=2E3440&label=views"/> -->
 </div>
