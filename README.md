@@ -20,8 +20,9 @@
    -  🌐 HTML/CSS/JS
 - 👯 Wank about my code, steal it, fork it, blow it up, idk. Feedback is always welcome!
 - 🐧 Linux is my passion, even if I suffer from errors.
-- 👷 I’m currently working on [Gomez OS](https://gomezos.tk) `version: 22.04` for fun and to learn a thing or too. 
-- 💻 Currently using Fedora Linux ([dotfiles](https://github.com/AntonVanAssche/dotfiles)) and unfortunately also Windows
+- 👷 I’m currently working on [Gomez OS](https://gomezos.tk) `version: 22.04` for fun and to learn a thing or too.
+- 💻 Currently using Fedora Linux ([dotfiles](https://github.com/AntonVanAssche/dotfiles)) and unfortunately also Windows.
+- ⚡  Fun fact: I have a certificate for completing the [Cisco Networking Academy Cybersecurity Essentials course](https://www.credly.com/badges/9ee8cf32-505d-474f-8210-285248b698d0/public_url).
 
 <br>
 
