@@ -20,7 +20,7 @@
    -  🌐 HTML/CSS/JS
 - 👯 Wank about my code, steal it, fork it, blow it up, idk. Feedback is always welcome!
 - 🐧 Linux is my passion, even if I suffer from errors.
-- 👷 I’m currently working on [Gomez OS](https://gomezos.tk) `version: 22.04` for fun and to learn a thing or too.
+- 👷 I’m currently working on [BashPass](https://github.com/AntonVanAssche/bashpass) for fun and to learn a thing or too.
 - 💻 Currently using Fedora Linux ([dotfiles](https://github.com/AntonVanAssche/dotfiles)) and unfortunately also Windows.
 - ⚡  Fun fact: I have a certificate for completing the [Cisco Networking Academy Cybersecurity Essentials course](https://www.credly.com/badges/9ee8cf32-505d-474f-8210-285248b698d0/public_url).
 
@@ -43,7 +43,6 @@ Here are a few of them:
 
 Project                     | Progress                       | Location                                                               |
 ----------------------------|--------------------------------|------------------------------------------------------------------------|
-`Gomez OS `                   | Under development for `22.04`  | [Website](https:/gomezos.tk), [Git repos](https://gitlab.com/gomez-os) |
 `Gnoti`                       | Updated to Gnome 41            | [Git repo](https://github.com/AntonVanAssche/gnoti)                          |
 `rpi-nas `                    | Done                           | [Git repo](https://github.com/AntonVanAssche/rpi-nas)                        |
 `rpi-homeserver  `            | Done                           | [Git repo](https://github.com/AntonVanAssche/rpi-homeserver)                 |
